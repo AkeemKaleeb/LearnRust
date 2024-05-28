@@ -1,0 +1,1 @@
+/mnt/c/Users/kaile/Desktop/Programming/Programs/Rust/Rust\ Book/LearnRust/projects/variables/target/debug/variables: /mnt/c/Users/kaile/Desktop/Programming/Programs/Rust/Rust\ Book/LearnRust/projects/variables/src/main.rs
