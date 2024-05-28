@@ -1,0 +1,1 @@
+/mnt/c/Users/kaile/Desktop/Programming/Programs/Rust/Rust\ Book/LearnRust/projects/functions/target/debug/functions: /mnt/c/Users/kaile/Desktop/Programming/Programs/Rust/Rust\ Book/LearnRust/projects/functions/src/main.rs
